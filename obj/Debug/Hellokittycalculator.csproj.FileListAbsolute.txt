@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\Calculadora\Hellokittycalculator\bin\Debug\Hellokittycalculator.exe.config
+C:\Users\LENOVO\source\repos\Calculadora\Hellokittycalculator\bin\Debug\Hellokittycalculator.exe
+C:\Users\LENOVO\source\repos\Calculadora\Hellokittycalculator\bin\Debug\Hellokittycalculator.pdb
+C:\Users\LENOVO\source\repos\Calculadora\Hellokittycalculator\obj\Debug\Hellokittycalculator.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Calculadora\Hellokittycalculator\obj\Debug\Hellokittycalculator.Form1.resources
+C:\Users\LENOVO\source\repos\Calculadora\Hellokittycalculator\obj\Debug\Hellokittycalculator.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Calculadora\Hellokittycalculator\obj\Debug\Hellokittycalculator.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Calculadora\Hellokittycalculator\obj\Debug\Hellokittycalculator.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Calculadora\Hellokittycalculator\obj\Debug\Hellokittycalculator.exe
+C:\Users\LENOVO\source\repos\Calculadora\Hellokittycalculator\obj\Debug\Hellokittycalculator.pdb
